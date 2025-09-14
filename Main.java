@@ -38,8 +38,9 @@ public class Main {
                 case 6 -> System.out.println("Terima kasih telah mengunjungi Pomodoro Tracker.");
                 default -> System.out.println("Pilihan tidak valid!");
             }
-        } while (pilihan != 0);
+        } while (pilihan != 6);
 
         sc.close();
     }
 }
+
