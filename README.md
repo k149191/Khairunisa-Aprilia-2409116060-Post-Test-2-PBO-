@@ -4,11 +4,11 @@
 
 # Manajemen Waktu Belajar/Pomodoro Tracker
 
-*** Deskripsi Program**
+**- Deskripsi Program**
 
 Program sederhana ini dibuat untuk membantu mengatur waktu belajar dengan menggunakan metode Pomodoro. Metode Pomodoro adalah teknik manajemen waktu yang membagi periode belajar menjadi sesi fokus dan diselingi dengan waktu istirahat. Biasanya untuk sesi fokus waktunya adalah 15, 20, 30 menit dan waktu istirahat waktunya adalah 5, 10, 15 menit.
 
-*** Alur Program**
+**- Alur Program**
 
 1. Menu utama
 
@@ -72,7 +72,7 @@ Program sederhana ini dibuat untuk membantu mengatur waktu belajar dengan menggu
 
    Jika memilih nomor 6 untuk keluar dari sistem, akan keluar output terima kasih telah mengunjungi pomodoro tracker.
 
-***Source Code**
+**- Source Code**
 
    
 
