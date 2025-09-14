@@ -44,6 +44,52 @@ Program sederhana ini dibuat untuk membantu mengatur waktu belajar dengan menggu
 
 5. Menu Hapus Sesi Belajar
 
+   <img width="537" height="772" alt="image" src="https://github.com/user-attachments/assets/4c141ae7-72fa-4685-a6c6-6ecd44d4c75b" />
+
+   Jika memilih nomor 4 untuk menghapus sesi belajar, akan diminta memilih nomor sesi belajar yang ingin dihapus. Jika berhasil dihapus akan keluar output sesi telah berhasil dihapus.
+
+   <img width="442" height="399" alt="image" src="https://github.com/user-attachments/assets/255484c2-7ad3-4890-896c-12e98d034242" />
+
+   Dapat dilihat saat di cek kembali di daftar sesi belajar, sesi dengan nama Kimia telah terhapus.
+
+6. Menu Cari Sesi Belajar
+  
+      <img width="535" height="261" alt="image" src="https://github.com/user-attachments/assets/908e36f2-d9e0-4642-badf-de8680c389e6" />
+
+      Jika memilih nomor 5 untuk mencari sesi belajar, akan diminta memasukan nama sesi yang ingin dicari.
+
+      <img width="451" height="141" alt="image" src="https://github.com/user-attachments/assets/d9f61370-aca8-463c-aa95-4c179ab9e069" />
+
+      Misalnya pada gambar diatas, mencari sesi dengan nama Fisika dan akan tertampil sesi dengan nama Fisika.
+
+      <img width="430" height="73" alt="image" src="https://github.com/user-attachments/assets/de149694-de69-4774-a067-622ac40aaa62" />
+
+      Jika nama sesi yang kita cari tidak ada akan muncul pesan sesi tidak ditemukan.
+
+7. Menu Keluar
+
+   <img width="754" height="310" alt="image" src="https://github.com/user-attachments/assets/cd43518b-7a60-4840-9a7c-a2265ddc6155" />
+
+   Jika memilih nomor 6 untuk keluar dari sistem, akan keluar output terima kasih telah mengunjungi pomodoro tracker.
+
+   
+
+
+   
+
+
+      
+
+
+      
+
+  
+      
+
+
+
+   
+
    
 
 
